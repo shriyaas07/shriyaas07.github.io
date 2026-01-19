@@ -46,3 +46,27 @@ section {
     background-color: #10b981;
     margin: 20px 0;
 }
+.project-card {
+    background: #ffffff;
+    border-left: 6px solid #10b981;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.project-card h3 {
+    margin-top: 0;
+    color: #065f46;
+}
+
+.project-card a {
+    text-decoration: none;
+    color: #047857;
+    font-weight: bold;
+}
+
+.project-card a:hover {
+    text-decoration: underline;
+}
+
